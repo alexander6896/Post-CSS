@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/alexander6896/Post-CSS#readme",
   "dependencies": {
-    "autoprefixer": "^10.0.1"
+    "autoprefixer": "^10.0.1",
+    "postcss-cssnext": "^3.1.0"
   },
   "devDependencies": {
     "postcss": "^8.1.4",
